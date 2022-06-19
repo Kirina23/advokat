@@ -26,7 +26,9 @@ jQuery(document).ready(function($) {
 </header>
 
 <section class="cont">
-<img class="cont_img" src="public/img/17.jpg" alt=""/>
+ <div class="cont_img">
+<img  src="public/img/14.jpg" alt=""/>
+</div>
 <div class="cont_text">
  Оказываем юридические услуги для предпринимателей и физ. лиц
 <br>
