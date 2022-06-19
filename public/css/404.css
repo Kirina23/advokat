@@ -87,9 +87,13 @@ h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: 400;}
 	justify-content: space-between;
 }
 .cont_img {
-	width: 30%;
-	height: auto;
 	padding-left: 10vh;
+	display: flex;
+    align-items: center;
+}
+.cont img {
+    width: 100%;
+	height: auto;
 }
 .cont_text {
 	flex-grow: 3;
