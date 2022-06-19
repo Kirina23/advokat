@@ -25,7 +25,9 @@ jQuery(document).ready(function($) {
 </header>
 
 <section class="cont">
-<img class="cont_img" src="http://advokat.kodset.ru/public/img/cat.png" alt="hungry cat"/>
+<div class="cont_img">
+<img  src="http://advokat.kodset.ru/public/img/cat.png" alt="hungry cat"/>
+</div>
 <div class="cont_text">
 Ой! Такой страницы не существует. 
 <br>
